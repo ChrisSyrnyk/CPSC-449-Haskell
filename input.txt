@@ -1,0 +1,57 @@
+Name:
+Justin
+
+forced partial assignment:
+(3,D)
+(7,D)
+
+
+(4,F)
+
+(1,C)
+
+
+forbidden machine:
+
+(1,A)
+(2,A)
+(3,A)
+(4,H)
+
+
+
+
+
+
+too-near tasks:
+
+(A,B)
+
+
+(F,H)
+
+machine penalties:
+5 5 5 55456 5 5 5 5
+5 5224 5 5 5 5 5 5
+5 5 5 5 5 5234 5 5
+
+
+5 5 5 5533 4 5 5 5
+5 5 5 0 5 5 5 5
+5 524 5 5 5 5 0 5
+
+0 5 5 5 5 5 5 5
+5 51678 0 5 5 5 543 5
+
+too-near penalities:
+(A,B,30)
+(B,D,10)
+(A,C,100)
+(G,H,15)
+
+
+
+
+
+
+
